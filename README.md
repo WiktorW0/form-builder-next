@@ -49,4 +49,41 @@ At this point the user can go to the home page or see the submissions of their f
 - Zod as TypeScript schema for data validation
 
 ## 📷 Screenshots:
+<p align="center">
+<img src="https://i.imgur.com/0k2uEV2.png" height="100%" width="100%" alt="Form-Builder"/>
+<br />
+<img src="https://i.imgur.com/urwIxOk.png" height="100%" width="100%" alt="Form-Builder"/>
+<br />
+<img src="https://i.imgur.com/85HVdgw.png" height="100%" width="100%" alt="Form-Builder"/>
+<br />
+<img src="https://i.imgur.com/lRLgDNN.png" height="100%" width="100%" alt="Form-Builder"/>
+<br />
+<img src="https://i.imgur.com/jhK5Kwt.png" height="100%" width="100%" alt="Form-Builder"/>
+<br />
+<img src="https://i.imgur.com/AnvoCtI.png" height="100%" width="100%" alt="Form-Builder"/>
+<br />
+<img src="https://i.imgur.com/R24JiUz.png" height="100%" width="100%" alt="Form-Builder"/>
+<br />
+<img src="https://i.imgur.com/K32sPVI.png" height="100%" width="100%" alt="Form-Builder"/>
+<br />
+<img src="https://i.imgur.com/MZjUbe4.png" height="100%" width="100%" alt="Form-Builder"/>
+<br />
+<img src="https://i.imgur.com/b15oWSn.png" height="100%" width="100%" alt="Form-Builder"/>
+<br />
+<img src="https://i.imgur.com/qmCMBTq.png" height="100%" width="100%" alt="Form-Builder"/>
+<br />
+<img src="https://i.imgur.com/MaXg80z.png" height="100%" width="100%" alt="Form-Builder"/>
+<br />
+<img src="https://i.imgur.com/ONWqwLy.png" height="100%" width="100%" alt="Form-Builder"/>
+<br />
+<img src="https://i.imgur.com/R4BZWjy.png" height="100%" width="100%" alt="Form-Builder"/>
+<br />
+<img src="https://i.imgur.com/sEnfJ75.png" height="100%" width="100%" alt="Form-Builder"/>
+<br />
+<img src="https://i.imgur.com/r22Yzgi.png" height="100%" width="100%" alt="Form-Builder"/>
+<br />
+<img src="https://i.imgur.com/z6MOOkg.png" height="50%" width="50%" alt="Form-Builder"/>
+<br />
+<img src="https://i.imgur.com/a1HR2Bw.png" height="50%" width="50%" alt="Form-Builder"/>
+<br />
 
